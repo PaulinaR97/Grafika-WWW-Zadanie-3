@@ -50,7 +50,7 @@
 
    Krudowie potrzebują nowego miejsca do życia. Tak więc pierwsza prehistoryczna rodzina wyrusza w świat w poszukiwaniu bezpieczniejszego miejsca, które można by nazwać domem. Kiedy odkrywają idylliczny raj otoczony murem, raj który spełnia wszystkie ich potrzeby, myślą, że ich problemy zostały rozwiązane… z wyjątkiem jednej rzeczy. Mieszka tam już inna rodzina: Bettermanowie. Bettermanowie (z naciskiem na „better”) - ze swoim wyszukanym domkiem na drzewie, niesamowitymi wynalazkami i nawadnianymi hektarami upraw smacznych owoców - znajdują się kilka stopni powyżej Krudów na drabinie ewolucyjnej. Kiedy przyjmują Krudów jako pierwszych gości na świecie, wkrótce narastają napięcia między rodziną jaskiniową a rodziną współczesną.
 
-   ![Krudowie 2](Zdjęcia/Krudowie 2.jpg)
+   ![Krudowie 2](https://github.com/PaulinaR97/Grafika-WWW-Zadanie-3/blob/42a4930957cc279e8a9962643a94973ea6663d4a/Zdj%C4%99cia/Krudowie%202.jpg)
 
    
 
