@@ -20,7 +20,7 @@
 
    Początkujący listonosz zostaje wysłany na niewielką wyspę za kołem podbiegunowym. Jej mieszkańcy są ze sobą skłóceni, a - co gorsza - nikt nie wysyła tam listów.
 
-   ![Klaus](D:\OneDrive\Pulpit\Zadanie Paulina Romuzga\Klaus.jpg)
+   ![Klaus](Zdjęcia/Klaus.jpg)
 
    
 
@@ -36,7 +36,7 @@
 
    Wspólne prowadzenie Hotelu Transylwania przez Drakulę, jego córkę Mavis i zięcia Jonathana idzie coraz lepiej. Jednak owdowiały Drakula cierpi na samotność. Mavis uważa, że jej ojciec jest po prostu przepracowany, więc postanawia wyruszyć w rodzinny rejs statkiem. Tam Drakula poznaje panią kapitan statku, Erickę, i zakochuje się w niej. Drakula nie wie jednak, że Ericka tak naprawdę jest prawnuczką jego największego wroga, Abrahama Van Helsinga, który chce zniszczyć Drakulę i wszystkie potwory.
 
-   ![Hotel Transylwania 3](D:\OneDrive\Pulpit\Zadanie Paulina Romuzga\Hotel Transylwania 3.jpg)
+   ![Hotel Transylwania 3](Zdjęcia/Hotel Transylwania 3.jpg)
 
    
 
@@ -50,7 +50,7 @@
 
    Krudowie potrzebują nowego miejsca do życia. Tak więc pierwsza prehistoryczna rodzina wyrusza w świat w poszukiwaniu bezpieczniejszego miejsca, które można by nazwać domem. Kiedy odkrywają idylliczny raj otoczony murem, raj który spełnia wszystkie ich potrzeby, myślą, że ich problemy zostały rozwiązane… z wyjątkiem jednej rzeczy. Mieszka tam już inna rodzina: Bettermanowie. Bettermanowie (z naciskiem na „better”) - ze swoim wyszukanym domkiem na drzewie, niesamowitymi wynalazkami i nawadnianymi hektarami upraw smacznych owoców - znajdują się kilka stopni powyżej Krudów na drabinie ewolucyjnej. Kiedy przyjmują Krudów jako pierwszych gości na świecie, wkrótce narastają napięcia między rodziną jaskiniową a rodziną współczesną.
 
-   ![Krudowie 2](D:\OneDrive\Pulpit\Zadanie Paulina Romuzga\Krudowie 2.jpg)
+   ![Krudowie 2](Zdjęcia/Krudowie 2.jpg)
 
    
 
@@ -64,7 +64,7 @@
 
    Akcja filmu rozgrywa się w meksykańskiej wiosce Santa Cecilia i opowiada historię dwunastoletniego chłopca Miguela Rivery, który mieszka z wielopokoleniową rodziną. Główny bohater marzy o karierze wokalisty i gitarzysty, ale Riverowie zakazują swoim dzieciom muzykowania. Nastolatek urządza sobie kryjówkę na strychu jednego z budynków rodzinnej hacjendy i tam może do woli śpiewać i słuchać płyt największej gwiazdy meksykańskiej muzyki, przedwcześnie zmarłego Ernesto de la Cruza. Pewnego dnia Miguel odkrywa, że Ernesto wywodził się z jego rodziny, i magicznym zbiegiem okoliczności przenosi się do Świata Umarłych.
 
-   ![Coco](D:\OneDrive\Pulpit\Zadanie Paulina Romuzga\Coco.jpg)
+   ![Coco](Zdjęcia/Coco.jpg)
 
    
 
