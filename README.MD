@@ -36,7 +36,7 @@
 
    Wspólne prowadzenie Hotelu Transylwania przez Drakulę, jego córkę Mavis i zięcia Jonathana idzie coraz lepiej. Jednak owdowiały Drakula cierpi na samotność. Mavis uważa, że jej ojciec jest po prostu przepracowany, więc postanawia wyruszyć w rodzinny rejs statkiem. Tam Drakula poznaje panią kapitan statku, Erickę, i zakochuje się w niej. Drakula nie wie jednak, że Ericka tak naprawdę jest prawnuczką jego największego wroga, Abrahama Van Helsinga, który chce zniszczyć Drakulę i wszystkie potwory.
 
-   ![Hotel Transylwania 3](Zdjęcia/Hotel Transylwania 3.jpg)
+   ![Hotel Transylwania 3](https://github.com/PaulinaR97/Grafika-WWW-Zadanie-3/blob/fc9bc05a74dfafa61dc69aded39d3c9b497990a0/Zdj%C4%99cia/Hotel%20Transylwania%203.jpg)
 
    
 
