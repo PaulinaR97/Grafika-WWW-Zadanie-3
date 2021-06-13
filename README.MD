@@ -6,7 +6,7 @@
 
    Przed Czkawką i Szczerbatkiem zupełnie nowe przygody - mnóstwo niebezpieczeństw, wielkie wyzwania, niezwykła wyprawa w nieznane oraz… miłość. Kiedy nad Berk nadciąga zagrożenie, jakiego nigdy wcześniej jego mieszkańcy nie doświadczyli, Czkawka wie, że musi zrobić wszystko, by uratować smoki. Przyjdzie mu - wraz z przyjaciółmi - udać się w ekscytującą podróż do mitycznej krainy, w której smoki czują się bezpieczne.
 
-   ![HowToTrainYourDragon3](D:\OneDrive\Pulpit\Zadanie Paulina Romuzga\HowToTrainYourDragon3.jpg)
+   ![HowToTrainYourDragon3](Zdjęcia/HowToTrainYourDragon3.jpg)
 
    
 
